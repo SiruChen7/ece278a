@@ -31,7 +31,7 @@
 - [ ] 05/01/2024: Contour tracing: active contours (snakes, intelligent scissors, level set techniques)
 
 ### Segmentation techniques
-- [ ] 05/06/2024: Segmentation: Thresholding + Region-based (region growing, etc)
+- [X] 05/06/2024: Segmentation: Thresholding + Region-based (region growing, etc) - Siru Chen
 - [ ] 05/08/2024: Segmentation: Clustering (mean-shift) + Graph-based methods (graph-cut, random walk, etc)
 - [ ] 05/13/2024: Segmentation: Energy-minimization (Conditional Random Fields)
 
